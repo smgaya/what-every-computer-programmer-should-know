@@ -2,7 +2,7 @@
 
 This repository is a list of links and downloadable resources (html, pdf, txt files) of articles around that web that are generally acknowledged as essential reading for computer scientists and programmers.
 
-The articles and resources need to be of exceptional quality and 
+The articles and resources need to be of exceptional quality and deal with topics that are of importance in many computer science disciplines.
 
 
 
